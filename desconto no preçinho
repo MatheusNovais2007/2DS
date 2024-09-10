@@ -1,0 +1,13 @@
+
+preco = []
+desconto = [0]
+valor_do_desconto = preco*desconto/100
+produto = preco - valor_do_desconto 
+
+preco = int(input("digite o valor do produto"))
+
+for i in produto:
+   if produto > 0:
+    print("seu desconto sera de {produto}")
+
+
