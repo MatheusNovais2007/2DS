@@ -1,0 +1,9 @@
+numero_1 = ("digite o numero")
+numero_2 = ("digite o segundo numero")
+numero_3 = ("digite o terceirp numero")
+
+maior = max(numero_1,numero_2,numero_3)
+menor = min(numero_1,numero_2,numero_3)
+
+print("o maior numero é:{maior]")
+print("o menor numero é:{menor}")
