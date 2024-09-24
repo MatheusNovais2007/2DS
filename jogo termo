@@ -1,0 +1,19 @@
+print("Bem vindo ao jogo da palavra secreta")
+
+palavra_secreta = minecraft
+
+acertou = false
+enforcou = false
+
+while (not acertou and not enforcou)"
+# se ele nao acertar vai para forca
+
+tentativa = input('qual é a letra')
+
+for letra in palavra_secreta:
+ if(tentativa == letra):
+  print("tentativa")
+
+print("fim de jogo")
+
+break
